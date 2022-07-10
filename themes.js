@@ -1,4 +1,4 @@
-exports.COLOR_THEMES = { 1
+exports.COLOR_THEMES = { 
   default: {
     colors: {
       primary: '#7D7AFF',
